@@ -1,12 +1,22 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     background-color: bisque;
+    line-height: 1.6;
 }
 
 h1 {
     text-align: center;
-    background-color: rgb(110, 88, 238);
+    background-color: rgb(119, 40, 40);
     border-radius: 5px;
+    color: black;
 }
 
+h2, h3, h4, h5, h6 {
+    font-weight: 800;
+    color: rgb(173, 78, 78);
+}
 
+a {
+    font-size: larger;
+    text-decoration: none;
+}
