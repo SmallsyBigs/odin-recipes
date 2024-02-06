@@ -7,8 +7,11 @@ body {
 h1 {
     text-align: center;
     background-color: rgb(119, 40, 40);
-    border-radius: 5px;
-    color: black;
+    border-radius: 10px;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    padding: 30px 30px 30px 30px;
+    box-shadow: 5px 10px 20px rgb(31, 30, 30);
 }
 
 h2, h3, h4, h5, h6 {
@@ -19,4 +22,8 @@ h2, h3, h4, h5, h6 {
 a {
     font-size: larger;
     text-decoration: none;
+}
+
+ul, ol {
+    background-color: blanchedalmond;
 }
