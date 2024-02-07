@@ -19,6 +19,10 @@ h2, h3, h4, h5, h6 {
     color: rgb(173, 78, 78);
 }
 
+p {
+    max-width: 800px;
+}
+
 a {
     font-size: larger;
     text-decoration: none;
@@ -26,4 +30,9 @@ a {
 
 ul, ol {
     background-color: blanchedalmond;
+}
+
+#lasagnaimg {
+    width: auto;
+    height: 300px;
 }
